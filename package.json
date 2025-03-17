@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "rollup": "^2.79.1"
+    "rollup": "^2.79.2"
   }
 }
